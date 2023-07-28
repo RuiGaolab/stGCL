@@ -1,5 +1,5 @@
 # stGCL: Spatial domain identification and multi-slice integration analysis for spatial transcriptomics with multi-modal graph contrastive learning
-[![DOI](https://zenodo.org/badge/398185411.svg)](https://zenodo.org/badge/latestdoi/398185411)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8137326.svg)](https://doi.org/10.5281/zenodo.8137326)
 
 
 ![](https://github.com/RuiGaolab/stGCL/stGCL_Overview.png)
