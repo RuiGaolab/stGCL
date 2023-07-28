@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8137326.svg)](https://doi.org/10.5281/zenodo.8137326)
 
 
-![](https://github.com/RuiGaolab/stGCL/stGCL_Overview.png)
+![]([https://github.com/RuiGaolab/stGCL/stGCL_Overview.png](https://github.com/RuiGaolab/stGCL/blob/main/stGCL_Overview.png))
 
 
 ## Overview
