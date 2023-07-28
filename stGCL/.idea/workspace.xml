@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fb5c272-5e69-48f3-abbe-a27998cc6708" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="6029fc9c-68b1-469c-9306-23d495c10f09" />
+  <component name="ProjectId" id="2Bn9b79qWUnguXho3CdsnRK2hUb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\pythonprogram\stGCL" />
+      <recent name="G:\pythonprogram\stGCL\Data\NSCLC" />
+      <recent name="G:\pythonprogram\stGCL\Data\PDAC" />
+      <recent name="G:\pythonprogram\stGCL\Data\Human_Bronchiolar_Adenoma" />
+      <recent name="G:\pythonprogram\stGCL\Data\Mouse_olfactory_bulb" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\pythonprogram\stGCL\stGCL" />
+      <recent name="G:\pythonprogram\stGCL" />
+      <recent name="G:\pythonprogram\stGCL\temp" />
+      <recent name="G:\pythonprogram\stGCL\xxx" />
+      <recent name="G:\pythonprogram\stGCL\Data\Xenium_FFPE_Human_Breast_Cancer_Rep1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_mutil_horizontal2">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="stGCL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://dell@180.201.3.8:22/home/dell/anaconda3/envs/stagate/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_DLPFC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stGCL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://dell@180.201.3.8:22/home/dell/anaconda3/envs/stagate/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_DLPFC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_ST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stGCL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://dell@180.201.3.8:22/home/dell/anaconda3/envs/stagate/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_ST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_Xenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stGCL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://dell@180.201.3.8:22/home/dell/anaconda3/envs/stagate/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_Xenium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_lung13t" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stGCL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://dell@180.201.3.8:22/home/dell/anaconda3/envs/stagate/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_lung13t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_mutil_horizontal2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stGCL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://dell@180.201.3.8:22/home/dell/anaconda3/envs/stagate/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_mutil_horizontal2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_DLPFC" />
+      <item itemvalue="Python.run_ST" />
+      <item itemvalue="Python.run_Xenium" />
+      <item itemvalue="Python.run_lung13t" />
+      <item itemvalue="Python.run_mutil_horizontal2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_mutil_horizontal2" />
+        <item itemvalue="Python.run_lung13t" />
+        <item itemvalue="Python.run_DLPFC" />
+        <item itemvalue="Python.run_Xenium" />
+        <item itemvalue="Python.run_ST" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fb5c272-5e69-48f3-abbe-a27998cc6708" name="Default Changelist" comment="" />
+      <created>1657531050060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657531050060</updated>
+      <workItem from="1657531051462" duration="1764000" />
+      <workItem from="1657712235384" duration="2557000" />
+      <workItem from="1657715919249" duration="28658000" />
+      <workItem from="1657799691179" duration="3569000" />
+      <workItem from="1657945890788" duration="12577000" />
+      <workItem from="1658145855158" duration="1038000" />
+      <workItem from="1658240403211" duration="1825000" />
+      <workItem from="1658326894954" duration="626000" />
+      <workItem from="1658558459032" duration="998000" />
+      <workItem from="1658583861794" duration="738000" />
+      <workItem from="1658720629985" duration="4257000" />
+      <workItem from="1658802652076" duration="24402000" />
+      <workItem from="1659169642148" duration="1198000" />
+      <workItem from="1659323012855" duration="1669000" />
+      <workItem from="1660004049230" duration="5584000" />
+      <workItem from="1660181867549" duration="1197000" />
+      <workItem from="1660868941081" duration="4475000" />
+      <workItem from="1660979092944" duration="12938000" />
+      <workItem from="1661305022886" duration="2558000" />
+      <workItem from="1661657429112" duration="5610000" />
+      <workItem from="1661734098331" duration="5642000" />
+      <workItem from="1661847616532" duration="1877000" />
+      <workItem from="1662016154917" duration="599000" />
+      <workItem from="1662081469939" duration="12515000" />
+      <workItem from="1663051748068" duration="1805000" />
+      <workItem from="1663203348538" duration="1917000" />
+      <workItem from="1663377374733" duration="1191000" />
+      <workItem from="1663564634797" duration="30432000" />
+      <workItem from="1663836061544" duration="14861000" />
+      <workItem from="1664091692985" duration="33218000" />
+      <workItem from="1664326740582" duration="7827000" />
+      <workItem from="1664353875283" duration="3449000" />
+      <workItem from="1664412786635" duration="1438000" />
+      <workItem from="1664454601066" duration="5849000" />
+      <workItem from="1664503353437" duration="9980000" />
+      <workItem from="1665648560919" duration="741000" />
+      <workItem from="1666086218050" duration="1269000" />
+      <workItem from="1666165804578" duration="1932000" />
+      <workItem from="1666678034622" duration="47617000" />
+      <workItem from="1667216132829" duration="57766000" />
+      <workItem from="1667479075620" duration="59000" />
+      <workItem from="1667479136804" duration="22000" />
+      <workItem from="1667479258452" duration="43255000" />
+      <workItem from="1667632497791" duration="78425000" />
+      <workItem from="1668046922409" duration="46855000" />
+      <workItem from="1668848940445" duration="723000" />
+      <workItem from="1668928741379" duration="23025000" />
+      <workItem from="1669300651432" duration="33369000" />
+      <workItem from="1669683942951" duration="53771000" />
+      <workItem from="1670203227941" duration="2723000" />
+      <workItem from="1670290794519" duration="8119000" />
+      <workItem from="1671002612635" duration="3384000" />
+      <workItem from="1671165814568" duration="2176000" />
+      <workItem from="1671180514607" duration="2971000" />
+      <workItem from="1671336096125" duration="15322000" />
+      <workItem from="1671971811080" duration="22420000" />
+      <workItem from="1673920626860" duration="1228000" />
+      <workItem from="1675233296418" duration="68880000" />
+      <workItem from="1675863796474" duration="25388000" />
+      <workItem from="1676031771964" duration="82047000" />
+      <workItem from="1676469776985" duration="3515000" />
+      <workItem from="1676512659665" duration="10304000" />
+      <workItem from="1676639958771" duration="1197000" />
+      <workItem from="1676685322346" duration="1801000" />
+      <workItem from="1676806385604" duration="3779000" />
+      <workItem from="1677225093426" duration="1708000" />
+      <workItem from="1677381269043" duration="11498000" />
+      <workItem from="1677513600193" duration="1531000" />
+      <workItem from="1677549993635" duration="32707000" />
+      <workItem from="1677721570565" duration="7181000" />
+      <workItem from="1677892421881" duration="781000" />
+      <workItem from="1678083998773" duration="3948000" />
+      <workItem from="1678156825096" duration="36440000" />
+      <workItem from="1678285782081" duration="8177000" />
+      <workItem from="1678346008039" duration="8248000" />
+      <workItem from="1678417484046" duration="8593000" />
+      <workItem from="1678450611809" duration="9954000" />
+      <workItem from="1678675416610" duration="644000" />
+      <workItem from="1678688825915" duration="611000" />
+      <workItem from="1678770337687" duration="17644000" />
+      <workItem from="1679038055781" duration="6975000" />
+      <workItem from="1679135908094" duration="2071000" />
+      <workItem from="1679209124385" duration="1427000" />
+      <workItem from="1679281184899" duration="588000" />
+      <workItem from="1679361870779" duration="44398000" />
+      <workItem from="1679925273436" duration="77618000" />
+      <workItem from="1680669235031" duration="1190000" />
+      <workItem from="1680698742719" duration="1198000" />
+      <workItem from="1681178333547" duration="19613000" />
+      <workItem from="1681580852027" duration="8712000" />
+      <workItem from="1681648262356" duration="12452000" />
+      <workItem from="1681817318557" duration="25443000" />
+      <workItem from="1682389599278" duration="48421000" />
+      <workItem from="1682751580888" duration="7961000" />
+      <workItem from="1685345705270" duration="52667000" />
+      <workItem from="1685933070375" duration="32509000" />
+      <workItem from="1686375229969" duration="28513000" />
+      <workItem from="1686459974674" duration="26811000" />
+      <workItem from="1686537272415" duration="18723000" />
+      <workItem from="1686631355615" duration="34678000" />
+      <workItem from="1686754942986" duration="18312000" />
+      <workItem from="1686834036980" duration="29922000" />
+      <workItem from="1687956597382" duration="84254000" />
+      <workItem from="1688531731650" duration="24606000" />
+      <workItem from="1688573037721" duration="70346000" />
+      <workItem from="1689409572250" duration="1596000" />
+      <workItem from="1689506706200" duration="2283000" />
+      <workItem from="1689516776986" duration="11317000" />
+      <workItem from="1689906417619" duration="88763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3177" y="214" key="#Deployment" timestamp="1681569734449">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3177" y="214" key="#Deployment/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1681569734449" />
+    <state x="3039" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1681570225192">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3039" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1681570225192" />
+    <state x="3310" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1688226651214">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3310" y="356" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1688226651214" />
+    <state x="805" y="310" key="FileChooserDialogImpl" timestamp="1690463735128">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="310" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690463735128" />
+    <state x="3365" y="310" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1690379601089" />
+    <state x="3434" y="468" key="Github.Dialog.Accounts.Choose" timestamp="1690360323654">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3434" y="468" key="Github.Dialog.Accounts.Choose/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1690360323654" />
+    <state x="830" y="435" key="Github.ShareDialog" timestamp="1690511398507">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="435" key="Github.ShareDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690511398507" />
+    <state x="3390" y="435" key="Github.ShareDialog/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1690379631134" />
+    <state x="869" y="260" key="Github.UntrackedFilesDialog" timestamp="1690511408227">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="869" y="260" key="Github.UntrackedFilesDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690511408227" />
+    <state x="3429" y="260" key="Github.UntrackedFilesDialog/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1690360301716" />
+    <state width="1539" height="268" key="GridCell.Tab.0.bottom" timestamp="1690555805847">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1539" height="268" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690555805847" />
+    <state width="1539" height="268" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1690515456701" />
+    <state width="1539" height="268" key="GridCell.Tab.0.center" timestamp="1690555805847">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1539" height="268" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690555805847" />
+    <state width="1539" height="268" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1690515456701" />
+    <state width="1539" height="268" key="GridCell.Tab.0.left" timestamp="1690555805847">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1539" height="268" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690555805847" />
+    <state width="1539" height="268" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1690515456701" />
+    <state width="1539" height="268" key="GridCell.Tab.0.right" timestamp="1690555805847">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1539" height="268" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690555805847" />
+    <state width="1539" height="268" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1690515456701" />
+    <state width="1002" height="400" key="GridCell.Tab.1.bottom" timestamp="1690555805838">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="400" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690555805838" />
+    <state width="2005" height="400" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1689747915232" />
+    <state width="1002" height="400" key="GridCell.Tab.1.center" timestamp="1690555805837">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="400" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690555805837" />
+    <state width="2005" height="400" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1689747915232" />
+    <state width="1002" height="400" key="GridCell.Tab.1.left" timestamp="1690555805837">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="400" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690555805837" />
+    <state width="2005" height="400" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1689747915232" />
+    <state width="1002" height="400" key="GridCell.Tab.1.right" timestamp="1690555805837">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="400" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690555805837" />
+    <state width="2005" height="400" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1689747915232" />
+    <state x="3086" y="200" width="1372" height="711" key="SettingsEditor" timestamp="1690379602138">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="138" y="171" width="1372" height="711" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1689409661199" />
+    <state x="3086" y="200" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1690379602138" />
+    <state x="3177" y="289" key="Vcs.Push.Dialog.v2" timestamp="1690367910073">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3177" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1690367910073" />
+    <state width="1031" height="563" key="XDebugger.FullValuePopup" timestamp="1689518355182">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1031" height="563" key="XDebugger.FullValuePopup/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1689518355182" />
+    <state width="1031" height="563" key="XDebugger.FullValuePopup/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1688403827320" />
+    <state x="617" y="411" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1689409660556">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="411" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1689409660556" />
+    <state x="486" y="111" width="966" height="821" maximized="true" key="dock-window-1" timestamp="1686901890973">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="486" y="111" width="966" height="821" maximized="true" key="dock-window-1/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1686901890973" />
+    <state x="722" y="268" width="602" height="584" key="find.popup" timestamp="1682413657364">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="722" y="268" width="602" height="584" key="find.popup/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1682413657364" />
+    <state x="876" y="257" width="355" height="539" key="ftp.server.browser" timestamp="1689409659531">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="876" y="257" width="398" height="539" key="ftp.server.browser/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1689409659531" />
+    <state x="3436" y="257" width="355" height="539" key="ftp.server.browser/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1681569706613" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1688908275546">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1688908275546" />
+    <state x="3247" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1681869007051" />
+    <state x="747" y="467" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1690117206594">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="747" y="467" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1690117206594" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/STAGATE_pyG/Train_STAGATE.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/STAGATE_pyG/Train_STAGATE.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/STAGATE_pyG/utils.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/STAGATE_pyG/Train_STAGATE.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/STAGATE_pyG/utils.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stGCL/process.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stGCL/process.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stGCL/stGCL_model.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stGCL/stGCL_model.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stGCL/train_model.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stGCL/utils.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stGCL/utils.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/stGCL$run_mutil_vertical2.coverage" NAME="run_mutil_vertical2 Coverage Results" MODIFIED="1688569072840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$temp_heg.coverage" NAME="temp_heg Coverage Results" MODIFIED="1690190962436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$canshu.coverage" NAME="canshu Coverage Results" MODIFIED="1688218438134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_DLPFC.coverage" NAME="run_DLPFC Coverage Results" MODIFIED="1690304062270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$test_image_representation.coverage" NAME="test_image_representation Coverage Results" MODIFIED="1668065201129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MMDR$home.coverage" NAME="home Coverage Results" MODIFIED="1667476711384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_human_lung_cancer.coverage" NAME="run_human_lung_cancer Coverage Results" MODIFIED="1690254325669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/STAGATE_pyG_main$paga.coverage" NAME="paga Coverage Results" MODIFIED="1657958395224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_ST.coverage" NAME="run_ST Coverage Results" MODIFIED="1690302487015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_STARmap.coverage" NAME="run_STARmap Coverage Results" MODIFIED="1688967633047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$hba_analy.coverage" NAME="hba_analy Coverage Results" MODIFIED="1681196790205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_slideseqV2_analsis__1_.coverage" NAME="run_slideseqV2_analsis (1) Coverage Results" MODIFIED="1686644210927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$scr.coverage" NAME="scr Coverage Results" MODIFIED="1675849760029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$shanluan.coverage" NAME="shanluan Coverage Results" MODIFIED="1680598391102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/STAGATE_pyG_main$home.coverage" NAME="home Coverage Results" MODIFIED="1658146212663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$pytest_in_test_image_representation_py.coverage" NAME="test_image_representation.py Coverage Results" MODIFIED="1675908326139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$readh5ad.coverage" NAME="readh5ad Coverage Results" MODIFIED="1687952870436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$teststlearn.coverage" NAME="teststlearn Coverage Results" MODIFIED="1669104171717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$image_SSL.coverage" NAME="image_SSL Coverage Results" MODIFIED="1682084841240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_package" />
+    <SUITE FILE_PATH="coverage/stGCL$xingnengceshi.coverage" NAME="xingnengceshi Coverage Results" MODIFIED="1686998589190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$scr_anterior.coverage" NAME="scr_anterior Coverage Results" MODIFIED="1667982335089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$scvpython.coverage" NAME="scvpython Coverage Results" MODIFIED="1680188958964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_10x.coverage" NAME="run_10x Coverage Results" MODIFIED="1690256056025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_lung13_image_representation.coverage" NAME="run_lung13_image_representation Coverage Results" MODIFIED="1682422701797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_mutil_horizontal2.coverage" NAME="run_mutil_horizontal2 Coverage Results" MODIFIED="1690534833882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$zzzzz.coverage" NAME="zzzzz Coverage Results" MODIFIED="1680357806843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_CCI.coverage" NAME="run_CCI Coverage Results" MODIFIED="1681704707275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_merish_scanpy.coverage" NAME="run_merish_scanpy Coverage Results" MODIFIED="1686715722996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$scvelo.coverage" NAME="scvelo Coverage Results" MODIFIED="1679381141100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$josn2label.coverage" NAME="josn2label Coverage Results" MODIFIED="1688491306366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_DLPFC_image_reprensentation.coverage" NAME="run_DLPFC_image_representation Coverage Results" MODIFIED="1667612863281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MMDR$visualize.coverage" NAME="visualize Coverage Results" MODIFIED="1660016394268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_emproy.coverage" NAME="run_emproy Coverage Results" MODIFIED="1688571697717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_10x_image_representation.coverage" NAME="run_10x_image_representation Coverage Results" MODIFIED="1688317436641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_lung13.coverage" NAME="run_lung13 Coverage Results" MODIFIED="1690207774841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$pytest_in_test_image_representation2_py.coverage" NAME="pytest in test_image_representation2.py Coverage Results" MODIFIED="1675908238318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$t.coverage" NAME="t Coverage Results" MODIFIED="1675908275587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$pytest_in_test_VIT_py.coverage" NAME="pytest in test_VIT.py Coverage Results" MODIFIED="1675908357580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_mutil_merish.coverage" NAME="run_mutil_merish Coverage Results" MODIFIED="1689128491841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_starmapbz.coverage" NAME="run_starmapbz Coverage Results" MODIFIED="1690288551470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_mutil_vertical.coverage" NAME="run_mutil_vertical Coverage Results" MODIFIED="1690248475808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_Stereo_seq_analsis.coverage" NAME="run_Stereo_seq_analsis Coverage Results" MODIFIED="1686577343850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$example_vix.coverage" NAME="example_vix Coverage Results" MODIFIED="1689066948480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/STAGATE_pyG_main$t.coverage" NAME="t Coverage Results" MODIFIED="1657716533217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_lung13t.coverage" NAME="run_lung13t Coverage Results" MODIFIED="1690515456693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_mutil_horizontal.coverage" NAME="run_mutil_horizontal Coverage Results" MODIFIED="1688570920004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$example_10x.coverage" NAME="example_10x Coverage Results" MODIFIED="1688645729142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_Xenium.coverage" NAME="run_Xenium Coverage Results" MODIFIED="1690302831857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$scr_breast.coverage" NAME="scr_breast Coverage Results" MODIFIED="1667819471546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$tt.coverage" NAME="tt Coverage Results" MODIFIED="1675908119453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$testVIT.coverage" NAME="testVIT Coverage Results" MODIFIED="1675909510053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$picixiaoying.coverage" NAME="picixiaoying Coverage Results" MODIFIED="1676426464070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_mutil_starmapbz.coverage" NAME="run_mutil_starmapbz Coverage Results" MODIFIED="1688992836461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_Stereo_seq.coverage" NAME="run_Stereo_seq Coverage Results" MODIFIED="1690168103750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$train_model.coverage" NAME="train_model Coverage Results" MODIFIED="1667480472987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stGCL_package" />
+    <SUITE FILE_PATH="coverage/stGCL$run_starmapbz__1_.coverage" NAME="run_starmapbz (1) Coverage Results" MODIFIED="1688998391655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_SlideseqV2.coverage" NAME="run_SlideseqV2 Coverage Results" MODIFIED="1688311087880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_DLPFC_image_representation.coverage" NAME="run_DLPFC_image_representation Coverage Results" MODIFIED="1667627151533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stGCL$run_merish.coverage" NAME="run_merish Coverage Results" MODIFIED="1690274770810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

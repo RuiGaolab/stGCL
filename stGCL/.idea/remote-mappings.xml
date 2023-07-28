@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://dell@180.201.3.8:22/home/dell/anaconda3/envs/zhangdl3.7/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/dell/zdlpython/stagate" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://dell@180.201.3.8:22/home/dell/anaconda3/envs/zhangdl3.7/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/dell/zdlpython/stagate" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://dell@180.201.3.8:22/home/dell/anaconda3/envs/stagate/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/dell/stproject/stGCL" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://dell@180.201.3.8:22/home/dell/anaconda3/envs/stjupyter/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/dell/stproject/stGCL" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="dell@180.201.3.8:22">
+    <serverData>
+      <paths name="dell@180.201.3.8:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dell/stproject/stGCL" local="$PROJECT_DIR$" />
+            <mapping />
+            <mapping />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dell@180.201.3.8:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
