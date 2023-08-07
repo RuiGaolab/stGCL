@@ -36,7 +36,7 @@ def Transfer_pytorch_Data(adata,ues_image=False):
 
     return data
 
-def Cal_Spatial_Net(adata, rad_cutoff=None, k_cutoff=None, model='Radius', verbose=True,Spatial_uns="Spatial_Net"):
+def Cal_Spatial_Net(adata, rad_cutoff=None, k_cutoff=None, model='Radius', Spatial_uns="Spatial_Net"):
     """
     Construct the spatial neighbor networks.
 
@@ -57,8 +57,6 @@ def Cal_Spatial_Net(adata, rad_cutoff=None, k_cutoff=None, model='Radius', verbo
     """
 
     assert(model in ['Radius', 'KNN'])
-    if verbose:
-        print('------Calculating spatial graph------')
     coor = pd.DataFrame(adata.obsm['spatial'])
     coor.index = adata.obs.index
     coor.columns = ['imagerow', 'imagecol']
@@ -85,23 +83,17 @@ def Cal_Spatial_Net(adata, rad_cutoff=None, k_cutoff=None, model='Radius', verbo
     id_cell_trans = dict(zip(range(coor.shape[0]), np.array(coor.index), ))
     Spatial_Net['Cell1'] = Spatial_Net['Cell1'].map(id_cell_trans)
     Spatial_Net['Cell2'] = Spatial_Net['Cell2'].map(id_cell_trans)
-    if verbose:
-        print('The graph contains %d edges, %d cells.' %(Spatial_Net.shape[0], adata.n_obs))
-        print('%.4f neighbors per cell on average.' %(Spatial_Net.shape[0]/adata.n_obs))
-        print('Neighbors information is stored in adata.uns["{}"]'.format(Spatial_uns))
 
     adata.uns[Spatial_uns] = Spatial_Net
 
 
-def Cal_3D_Spatial_Net(adata, rad_cutoff=None, k_cutoff=None, model='Radius', verbose=True):
+def Cal_3D_Spatial_Net(adata, rad_cutoff=None, k_cutoff=None, model='Radius'):
     """
     Construct the spatial neighbor networks.
     The parameters are the same as Cal_Spatial_Net.
     """
     assert (model in ['Radius', 'KNN'])
     assert ("z_pixel" in adata.obs.columns)
-    if verbose:
-        print('------Calculating 3D spatial graph------')
     coor=adata.obs[["x_pixel","y_pixel","z_pixel"]]
     if model == 'Radius':
         nbrs = sklearn.neighbors.NearestNeighbors(radius=rad_cutoff).fit(coor)
@@ -124,9 +116,6 @@ def Cal_3D_Spatial_Net(adata, rad_cutoff=None, k_cutoff=None, model='Radius', ve
     id_cell_trans = dict(zip(range(coor.shape[0]), np.array(coor.index), ))
     Spatial_Net['Cell1'] = Spatial_Net['Cell1'].map(id_cell_trans)
     Spatial_Net['Cell2'] = Spatial_Net['Cell2'].map(id_cell_trans)
-    if verbose:
-        print('The graph contains %d edges, %d cells.' % (Spatial_Net.shape[0], adata.n_obs))
-        print('%.4f neighbors per cell on average.' % (Spatial_Net.shape[0] / adata.n_obs))
 
     adata.uns['Spatial_Net'] = Spatial_Net
 
