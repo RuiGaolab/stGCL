@@ -1,4 +1,4 @@
-# stGCL: Spatial domain identification and multi-slice integration analysis for spatial transcriptomics with multi-modal graph contrastive learning
+# Spatial domain identification and multi-slice integration analysis for spatial transcriptomics with multi-modal graph contrastive learning
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8137326.svg)](https://doi.org/10.5281/zenodo.8137326)
 
 
@@ -41,4 +41,4 @@ For the step-by-step tutorial, please refer to:
 Feel free to submit an issue or contact us at gaorui@sdu.edu.cn for problems about the packages.
 
 ## Citation
-Na Yu, Daoliang Zhang, Zhi-Ping Liu, Xu Qiao, Wei Zhang, Miaoqing Zhao, Baoting Chao, Chuanyuan Wang, Wei Li, Yang De Marinis, and Rui Gao. stGCL: Spatial domain identification and multi-slice integration analysis for spatial transcriptomics with multi-modal graph contrastive learning. 2023. (submitted).
+Na Yu, Daoliang Zhang, Zhiping Liu, Xu Qiao, Wei Zhang, Chuanyuan Wang, Miao-Qing Zhao, Baoting Chao, Wei Li, Yang De Marinis, and Rui Gao. Spatial domain identification and multi-slice integration analysis for spatial transcriptomics with multi-modal graph contrastive learning. 2023. (submitted).
