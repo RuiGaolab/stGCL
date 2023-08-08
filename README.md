@@ -35,10 +35,10 @@ You'll need to install the following packages in order to run the codes.
 
 ## Tutorial
 For the step-by-step tutorial, please refer to:
-[https://deepst-tutorials.readthedocs.io/en/latest/](https://deepst-tutorials.readthedocs.io/en/latest/)
+[https://stgcl-turorials.readthedocs.io/en/latest/index.html](https://stgcl-turorials.readthedocs.io/en/latest/index.html)
 
 ## Contact
 Feel free to submit an issue or contact us at gaorui@sdu.edu.cn for problems about the packages.
 
 ## Citation
-Na Yu, Daoliang Zhang, Zhi-Ping Liu, Xu Qiao, Wei Zhang, Miaoqing Zhao, Baoting Chao, Chuanyuan Wang, Wei LI, Yang De Marinis, and Rui Gao. stGCL: Spatial domain identification and multi-slice integration analysis for spatial transcriptomics with multi-modal graph contrastive learning. 2023. (submitted).
+Na Yu, Daoliang Zhang, Zhi-Ping Liu, Xu Qiao, Wei Zhang, Miaoqing Zhao, Baoting Chao, Chuanyuan Wang, Wei Li, Yang De Marinis, and Rui Gao. stGCL: Spatial domain identification and multi-slice integration analysis for spatial transcriptomics with multi-modal graph contrastive learning. 2023. (submitted).
