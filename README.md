@@ -1,4 +1,4 @@
-# Spatial domain identification and multi-slice integration analysis for spatial transcriptomics with multi-modal graph contrastive learning
+# stGCL: A versatile spatial transcriptomics cross-modality fusion method based on multi-modal graph contrastive learning for spatial transcriptomics
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8185216.svg)](https://zenodo.org/record/8185216)
 
 
@@ -6,7 +6,7 @@
 
 
 ## Overview
-stGCL is a multi-modal graph contrastive learning framework that integrates transcriptional profiles, histological profiles and spatial information learning the spot joint embedding, enabling spatial domain detection, spatial data integration and downstream analysis. First, stGCL utilizes the proposed H-ViT model to extract the latent representation of each spot image. Then stGCL employs multi-modal graph attention auto-encoder (GATE) and contrastive learning to extract discriminative information from each modality and fuse them efficiently to generate meaningful joint embeddings. Specifically, multi-modal GATE learns spot joint structured embedding by iteratively aggregating gene expression features and histological features from adjacent spots. In contrastive learning, stGCL maximizes the mutual information between each spot joint embedding and the global summary of the graph, which endows the learned joint representation with not only local (spot expression patterns) but also global features (tissue microenvironment patterns). Finally, stGCL offers simple and effective vertical and horizontal integration methods for analyzing multiple tissue slices, which encourages smoothing of adjacent spot features within and across slices and mitigates the batch effect.
+stGCL is a graph contrastive learning-based cross-modality fusion model that incorporates transcriptional profiles, histological profiles and spatial information to learn the spot joint embedding, enabling spatial domain detection, multi-slices integration and downstream comparative analysis. stGCL utilizes a novel H-ViT method to extract the latent representation of each spot image. Then stGCL employs multi-modal graph attention auto-encoder (GATE) and contrastive learning to extract discriminative information from each modality and fuse them efficiently to generate meaningful joint embeddings. Specifically, multi-modal GATE learns spot joint structured embedding by iteratively aggregating gene expression features and histological features from adjacent spots. In contrastive learning, stGCL maximizes the mutual information between each spot joint embedding and the global summary of the graph, which endows the learned joint representation with not only local (spot expression patterns) but also global features (tissue microenvironment patterns). Furthermore, with a pioneering spatial coordinate correcting and registering strategy, stGCL can precisely identify cross-sectional domains while reducing batch effects.
 
 ## Requirements
 You'll need to install the following packages in order to run the codes.
@@ -41,4 +41,4 @@ For the step-by-step tutorial, please refer to:
 Feel free to submit an issue or contact us at gaorui@sdu.edu.cn for problems about the packages.
 
 ## Citation
-Na Yu, Daoliang Zhang, Zhiping Liu, Xu Qiao, Wei Zhang, Chuanyuan Wang, Miao-Qing Zhao, Baoting Chao, Wei Li, Yang De Marinis, and Rui Gao. Spatial domain identification and multi-slice integration analysis for spatial transcriptomics with multi-modal graph contrastive learning. 2023. (submitted).
+Na Yu, Daoliang Zhang, Wei Zhang, Zhiping Liu, Xu Qiao, Chuanyuan Wang, Miaoqing Zhao, Baoting Chao, Wei Li, Yang De Marinis, and Rui Gao. stGCL: A versatile spatial transcriptomics cross-modality fusion method based on multi-modal graph contrastive learning for spatial transcriptomics. 2023. (submitted).
