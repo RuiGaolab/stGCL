@@ -1,4 +1,4 @@
-# stGCL: A versatile spatial transcriptomics cross-modality fusion method based on multi-modal graph contrastive learning for spatial transcriptomics
+# stGCL: A versatile cross-modality fusion method based on multi-modal graph contrastive learning for spatial transcriptomics
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8185216.svg)](https://zenodo.org/record/8185216)
 
 
@@ -41,4 +41,4 @@ For the step-by-step tutorial, please refer to:
 Feel free to submit an issue or contact us at gaorui@sdu.edu.cn for problems about the packages.
 
 ## Citation
-Na Yu, Daoliang Zhang, Wei Zhang, Zhiping Liu, Xu Qiao, Chuanyuan Wang, Miaoqing Zhao, Baoting Chao, Wei Li, Yang De Marinis, and Rui Gao. stGCL: A versatile spatial transcriptomics cross-modality fusion method based on multi-modal graph contrastive learning for spatial transcriptomics. 2023. (submitted).
+Na Yu, Daoliang Zhang, Wei Zhang, Zhiping Liu, Xu Qiao, Chuanyuan Wang, Miaoqing Zhao, Baoting Chao, Wei Li, Yang De Marinis, and Rui Gao. stGCL: A versatile cross-modality fusion method based on multi-modal graph contrastive learning for spatial transcriptomics. 2023. (submitted).
